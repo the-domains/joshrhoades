@@ -1,14 +1,28 @@
-layout_spectrum: 0.5912997
+name: joshrhoades
+favicon: null
+layout_spectrum: 0.73398
+typography_spectrum: 0.5332975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8480129
-  brandStrength: 0.5941665
-  lightness: 0.217508
-  rhythmicContrast: 0.8920515
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-typography_spectrum: 0.5332975
-name: joshrhoades
+  brandStrength: 0.5941665
+  lightness: 0.217508
+  saturation: 0.8480129
+  rhythmicContrast: 0.8920515
+purpose: []
