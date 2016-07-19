@@ -1,9 +1,7 @@
-favicon: null
 name: joshrhoades
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.73398
+typography_spectrum: 0.5332975
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.4668843
-  brandStrength: 0.5941665
-  lightness: 0
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  rhythmicContrast: 0.8920515
-typography_spectrum: 0.5332975
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.73398
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#cfdebf'
+    - '#594c46'
+    - '#828081'
+    - '#f7763d'
+    - '#ffad61'
+  brandStrength: 0.5941665
+  lightness: 0
+  saturation: 0.4668843
+  rhythmicContrast: 0.25
+purpose: []
